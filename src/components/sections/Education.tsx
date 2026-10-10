@@ -52,7 +52,7 @@ export function Education() {
             <div className="rounded-md border border-border bg-secondary/60 p-4 text-left md:text-right shrink-0">
               <p className="text-xs text-muted-foreground uppercase tracking-widest">Graduation</p>
               <p className="font-serif text-2xl text-foreground">{education.period}</p>
-              <p className="text-sm font-semibold text-accent mt-1">CGPA: {education.cgpa}</p>
+              {/* <p className="text-sm font-semibold text-accent mt-1">CGPA: {education.cgpa}</p> */}
             </div>
           </div>
 
