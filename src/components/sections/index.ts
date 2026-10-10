@@ -1,0 +1,12 @@
+export * from "./Section";
+export * from "./common";
+export * from "./data";
+export { About } from "./About";
+export { Skills } from "./Skills";
+export { Experience } from "./Experience";
+export { Projects } from "./Projects";
+export { Hobbies } from "./Hobbies";
+export { Gallery } from "./Gallery";
+export { Education } from "./Education";
+export { Contact, StoredContactForm } from "./Contact";
+export { Footer } from "./Footer";
